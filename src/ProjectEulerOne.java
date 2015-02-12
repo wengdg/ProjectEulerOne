@@ -1,5 +1,5 @@
 /**
- * E15: ProjectEulerOne
+ * E15: ProjectEulerOne test
  * Created by Weng on 2/2/2015.
  */
 public class ProjectEulerOne {
